@@ -1,3 +1,4 @@
+![Gif](./javascript.gif)
 - 👋 Hi, I’m @alirezainfo
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Vue.js...
