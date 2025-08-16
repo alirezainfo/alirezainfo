@@ -6,6 +6,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning **Nuxt.js...**
 - 📫 How to reach me **khodemte@gmail.com**
+- 🌎 Based in Iran, but my code runs worldwide
 
 
 <h3 align="left">Connect with me:</h3>
