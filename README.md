@@ -10,7 +10,8 @@
 
 <!--
 <style>
-  a { text-decoration: none !important; }
+  a { text-decoration: none !important; },
+  a:hover {text-decoration: none !important;}
 </style>
 -->
 
