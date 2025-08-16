@@ -12,9 +12,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_alirezainfo" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter profile" height="30" width="40" />
-</a>
+
+
+<span style="display: inline-flex; align-items: center; gap: 10px;">
+  <a href="https://twitter.com/_alirezainfo" target="_blank" rel="noopener noreferrer" style="text-decoration: hidden;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="vertical-align: middle;" />
+  </a>
+  <a href="https://t.me/alirezabio" target="_blank" rel="noopener noreferrer" style="text-decoration: hidden;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" style="vertical-align: middle;" />
+  </a>
+</span>
 
 
 
