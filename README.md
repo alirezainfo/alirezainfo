@@ -2,7 +2,7 @@
 
 
 ![Gif](./javascript.gif)
-- 🦾 I'm FrontEnd developer and UI / UX designer
+- 🦾 I'm FrontEnd developer & UI / UX designer
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning **Nuxt.js...**
 - 📫 How to reach me **khodemte@gmail.com**
