@@ -3,6 +3,7 @@
 
 ![Gif](./javascript.gif)
 - 🦾 I'm **Front-End developer** & **UI / UX designer**
+- 🚩 I'm currently working on raharan.com & refahiticket.com
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning **Nuxt.js...**
 - 📫 How to reach me **khodemte@gmail.com**
