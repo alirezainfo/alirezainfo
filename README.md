@@ -8,8 +8,11 @@
 - 🌱 I’m currently learning **Nuxt.js...**
 - 📫 How to reach me **khodemte@gmail.com**
 
-
-
+<!--
+<style>
+* {text-decoration: none !importent}
+</style>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
