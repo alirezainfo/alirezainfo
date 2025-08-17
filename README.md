@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
+<table width="100vw">
   <tr>
     <td align="center">
       <a href="https://babeljs.io/" target="_blank" style="text-decoration:none;">
@@ -138,7 +138,19 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://vitejs.dev/" target="_blank" style="text-decoration:none;">
+        <img src="https://vitejs.dev/logo.svg" width="40" height="40"/><br>Vite
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
+
 
 
 
