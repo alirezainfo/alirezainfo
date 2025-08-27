@@ -22,7 +22,7 @@
 </span>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p style="display:flex; justify-content: space-between; gap: 4px">
   <a href="https://babeljs.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" height="40" alt="Babel"/>
   </a>
