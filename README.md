@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p style="display:flex; justify-content: space-between; gap: 4px">
-  <a href="https://babeljs.io/" target="_blank">
+  <a href="https://babeljs.io/" target="_blank" style="text-decoration: none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" height="40" alt="Babel"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
