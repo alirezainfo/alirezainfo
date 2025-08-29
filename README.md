@@ -13,10 +13,10 @@
 
 
 <span style="display: flex; align-items: center; justify-content:center; gap: 10px;">
-  <a href="https://twitter.com/_alirezainfo" target="_blank" rel="noopener noreferrer" style="text-decoration: none; !important">
+  <a href="https://twitter.com/_alirezainfo" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="vertical-align: middle;" />
   </a>
-  <a href="https://t.me/alirezabio" target="_blank" rel="noopener noreferrer" style="text-decoration: none; !important">
+  <a href="https://t.me/alirezabio" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" style="vertical-align: middle;" />
   </a>
 </span>
