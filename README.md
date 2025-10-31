@@ -93,6 +93,12 @@
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/>
 
+    <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+
+  <!-- SQL Server -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" width="50" alt="SQL Server" style="fill:#CC2927;"/>
+
 </div>
 
 
