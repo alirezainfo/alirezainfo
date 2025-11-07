@@ -2,6 +2,8 @@
 
 
 ![Gif](./javascript.gif)
+-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezainfo&label=Profile%20views&color=0e75b6&style=flat" alt="alirezainfo" /> </p>
+
 - 🦾 I'm **Front-End developer** & **UI / UX designer**
 - 🚩 I'm currently working on www.raharan.com & https://new.refahiticket.com
 - 👀 I’m interested in Programming
