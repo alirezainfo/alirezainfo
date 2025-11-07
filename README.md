@@ -5,7 +5,7 @@
 - 🦾 I'm **Front-End developer** & **UI / UX designer**
 - 🚩 I'm currently working on www.raharan.com & https://new.refahiticket.com
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning **Nuxt.js...**
+- 🌱 I’m currently learning **Nuxt.js and React.js**
 - 📫 How to reach me **khodemte@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
